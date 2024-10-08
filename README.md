@@ -1,6 +1,6 @@
 
 # Database-Engine
-Database Engine that supports some fet like:
+Database Engine that supports some ferrrrrrrrrrt like:
 - Creating a table
 - Inserting into a table
 - Updating a table
